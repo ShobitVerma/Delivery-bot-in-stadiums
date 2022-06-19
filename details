@@ -1,0 +1,5 @@
+# Delivery-bot-in-stadium
+A sample bot which will go under chairs for delivery in stadiums
+Here i have made the the bot with all the electronics components that will be required such as :-
+esp32 cam module, 4xL293D gear motors ,lipo battery ,4x 25GA 12V dc motor,4x breadboars,arduino uno,mechanum wheels
+All components have been made manually by me with accurate dimensions that were available on the internet
